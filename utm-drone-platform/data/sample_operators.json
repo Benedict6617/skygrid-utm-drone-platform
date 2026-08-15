@@ -1,0 +1,23 @@
+[
+  {
+    "company_name": "Meridian Aerial Delivery Co.",
+    "contact_email": "ops@meridianaerial.example",
+    "password": "MeridianOps#2026",
+    "faa_certificate_number": "4327891",
+    "phone_number": "+1-614-555-0142"
+  },
+  {
+    "company_name": "Hawkeye Infrastructure Inspections LLC",
+    "contact_email": "dispatch@hawkeyeinspect.example",
+    "password": "HawkeyeSecure#88",
+    "faa_certificate_number": "4319225",
+    "phone_number": "+1-614-555-0187"
+  },
+  {
+    "company_name": "Cascade Farms AgriScan",
+    "contact_email": "fleet@cascadeagriscan.example",
+    "password": "CascadeAg#4471",
+    "faa_certificate_number": "4302837",
+    "phone_number": "+1-614-555-0119"
+  }
+]

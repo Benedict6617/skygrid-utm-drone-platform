@@ -1,0 +1,97 @@
+[
+  {
+    "operator_email": "ops@meridianaerial.example",
+    "drone_serial_number": "MRD-DX400-0001",
+    "mission_name": "Grandview-to-Downtown Lunch Delivery Run 118",
+    "purpose": "delivery",
+    "max_altitude_m": 90,
+    "priority": 3,
+    "start_offset_minutes": 30,
+    "duration_minutes": 18,
+    "waypoints": [
+      { "sequence": 1, "latitude": 39.9110, "longitude": -83.0290, "altitude_m": 0 },
+      { "sequence": 2, "latitude": 39.9250, "longitude": -83.0150, "altitude_m": 85 },
+      { "sequence": 3, "latitude": 39.9400, "longitude": -82.9900, "altitude_m": 85 },
+      { "sequence": 4, "latitude": 39.9560, "longitude": -82.9435, "altitude_m": 0 }
+    ]
+  },
+  {
+    "operator_email": "ops@meridianaerial.example",
+    "drone_serial_number": "MRD-DX400-0002",
+    "mission_name": "Eastland Corridor Delivery Run 119",
+    "purpose": "delivery",
+    "max_altitude_m": 90,
+    "priority": 3,
+    "start_offset_minutes": 40,
+    "duration_minutes": 15,
+    "waypoints": [
+      { "sequence": 1, "latitude": 39.9560, "longitude": -82.9435, "altitude_m": 0 },
+      { "sequence": 2, "latitude": 39.9470, "longitude": -82.9100, "altitude_m": 88 },
+      { "sequence": 3, "latitude": 39.9376, "longitude": -82.8842, "altitude_m": 0 }
+    ]
+  },
+  {
+    "operator_email": "dispatch@hawkeyeinspect.example",
+    "drone_serial_number": "HWK-SV6-0001",
+    "mission_name": "I-270 Overpass Structural Inspection - Segment 4",
+    "purpose": "inspection",
+    "max_altitude_m": 60,
+    "priority": 5,
+    "start_offset_minutes": 60,
+    "duration_minutes": 45,
+    "waypoints": [
+      { "sequence": 1, "latitude": 39.9204, "longitude": -82.9711, "altitude_m": 0 },
+      { "sequence": 2, "latitude": 39.9180, "longitude": -82.9650, "altitude_m": 55 },
+      { "sequence": 3, "latitude": 39.9155, "longitude": -82.9590, "altitude_m": 55 },
+      { "sequence": 4, "latitude": 39.9204, "longitude": -82.9711, "altitude_m": 0 }
+    ]
+  },
+  {
+    "operator_email": "dispatch@hawkeyeinspect.example",
+    "drone_serial_number": "HWK-SV6-0002",
+    "mission_name": "Don Scott Field Perimeter Security Sweep",
+    "purpose": "surveillance",
+    "max_altitude_m": 100,
+    "priority": 4,
+    "start_offset_minutes": 90,
+    "duration_minutes": 25,
+    "waypoints": [
+      { "sequence": 1, "latitude": 40.0700, "longitude": -83.0800, "altitude_m": 0 },
+      { "sequence": 2, "latitude": 40.0760, "longitude": -83.0760, "altitude_m": 95 },
+      { "sequence": 3, "latitude": 40.0820, "longitude": -83.0700, "altitude_m": 95 },
+      { "sequence": 4, "latitude": 40.0700, "longitude": -83.0800, "altitude_m": 0 }
+    ]
+  },
+  {
+    "operator_email": "fleet@cascadeagriscan.example",
+    "drone_serial_number": "CAS-FM8-0001",
+    "mission_name": "Cascade Field 7 NDVI Crop Mapping Pass",
+    "purpose": "mapping",
+    "max_altitude_m": 100,
+    "priority": 6,
+    "start_offset_minutes": 120,
+    "duration_minutes": 50,
+    "waypoints": [
+      { "sequence": 1, "latitude": 39.8299, "longitude": -83.1122, "altitude_m": 0 },
+      { "sequence": 2, "latitude": 39.8340, "longitude": -83.1180, "altitude_m": 95 },
+      { "sequence": 3, "latitude": 39.8380, "longitude": -83.1090, "altitude_m": 95 },
+      { "sequence": 4, "latitude": 39.8320, "longitude": -83.1040, "altitude_m": 95 },
+      { "sequence": 5, "latitude": 39.8299, "longitude": -83.1122, "altitude_m": 0 }
+    ]
+  },
+  {
+    "operator_email": "ops@meridianaerial.example",
+    "drone_serial_number": "MRD-DX250-0003",
+    "mission_name": "Bolton Field Vicinity Sample Delivery (Requires ATC Coordination)",
+    "purpose": "delivery",
+    "max_altitude_m": 70,
+    "priority": 2,
+    "start_offset_minutes": 45,
+    "duration_minutes": 12,
+    "waypoints": [
+      { "sequence": 1, "latitude": 39.9100, "longitude": -83.1250, "altitude_m": 0 },
+      { "sequence": 2, "latitude": 39.9060, "longitude": -83.1300, "altitude_m": 65 },
+      { "sequence": 3, "latitude": 39.9028, "longitude": -83.1339, "altitude_m": 0 }
+    ]
+  }
+]

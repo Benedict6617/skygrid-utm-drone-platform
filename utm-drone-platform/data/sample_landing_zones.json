@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Meridian Warehouse Rooftop Pad A",
+    "zone_type": "designated_pad",
+    "latitude": 39.9558,
+    "longitude": -82.9435,
+    "radius_m": 15,
+    "max_capacity": 2,
+    "is_available": true,
+    "surface_type": "rooftop",
+    "population_density": "low"
+  },
+  {
+    "name": "Scioto Riverside Park Open Field",
+    "zone_type": "open_field",
+    "latitude": 39.9612,
+    "longitude": -83.0004,
+    "radius_m": 40,
+    "max_capacity": 3,
+    "is_available": true,
+    "surface_type": "grass",
+    "population_density": "medium"
+  },
+  {
+    "name": "Eastland Mall North Parking Lot",
+    "zone_type": "parking_lot",
+    "latitude": 39.9376,
+    "longitude": -82.8842,
+    "radius_m": 30,
+    "max_capacity": 4,
+    "is_available": true,
+    "surface_type": "paved",
+    "population_density": "medium"
+  },
+  {
+    "name": "Hawkeye Ops Yard Emergency Pad",
+    "zone_type": "emergency_only",
+    "latitude": 39.9204,
+    "longitude": -82.9711,
+    "radius_m": 20,
+    "max_capacity": 2,
+    "is_available": true,
+    "surface_type": "gravel",
+    "population_density": "low"
+  },
+  {
+    "name": "Cascade Farms Field 7",
+    "zone_type": "open_field",
+    "latitude": 39.8299,
+    "longitude": -83.1122,
+    "radius_m": 60,
+    "max_capacity": 5,
+    "is_available": true,
+    "surface_type": "grass",
+    "population_density": "low"
+  },
+  {
+    "name": "Grove City Community Center Lot",
+    "zone_type": "parking_lot",
+    "latitude": 39.8817,
+    "longitude": -83.0930,
+    "radius_m": 25,
+    "max_capacity": 2,
+    "is_available": false,
+    "surface_type": "paved",
+    "population_density": "high"
+  }
+]

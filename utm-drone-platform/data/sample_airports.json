@@ -1,0 +1,42 @@
+[
+  {
+    "icao_code": "KCMH",
+    "name": "John Glenn Columbus International Airport",
+    "latitude": 39.9980,
+    "longitude": -82.8919,
+    "elevation_m": 259.0,
+    "airspace_class": "C",
+    "has_atc_tower": true,
+    "laanc_facility_map_id": "FM-KCMH-01"
+  },
+  {
+    "icao_code": "KOSU",
+    "name": "Ohio State University Airport (Don Scott Field)",
+    "latitude": 40.0793,
+    "longitude": -83.0730,
+    "elevation_m": 271.0,
+    "airspace_class": "D",
+    "has_atc_tower": true,
+    "laanc_facility_map_id": "FM-KOSU-01"
+  },
+  {
+    "icao_code": "KTZR",
+    "name": "Bolton Field",
+    "latitude": 39.9028,
+    "longitude": -83.1339,
+    "elevation_m": 265.0,
+    "airspace_class": "D",
+    "has_atc_tower": true,
+    "laanc_facility_map_id": "FM-KTZR-01"
+  },
+  {
+    "icao_code": "K29",
+    "name": "Fairfield County Airport",
+    "latitude": 39.7861,
+    "longitude": -82.6532,
+    "elevation_m": 273.0,
+    "airspace_class": "E",
+    "has_atc_tower": false,
+    "laanc_facility_map_id": null
+  }
+]
